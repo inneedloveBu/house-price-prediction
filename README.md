@@ -1,13 +1,3 @@
----
-title: House Price Predictor
-emoji: 🏠
-colorFrom: green
-colorTo: pink
-sdk: gradio
-sdk_version: 3.50.2
-app_file: app.py
-pinned: false
----
 # 🏠 House Price Prediction - A Regression Analysis Project
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20Demo-blue)](https://huggingface.co/spaces/indeedlove/house-price-predictor)
