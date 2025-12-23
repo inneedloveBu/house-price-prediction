@@ -1,0 +1,2 @@
+# 明确告知Git，所有.ipynb文件都应使用LF换行符，且不要进行转换
+*.ipynb text eol=lf

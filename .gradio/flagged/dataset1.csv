@@ -1,0 +1,7 @@
+TotalSF (平方英尺),TotalPorchSF (平方英尺),OverallQual (整体质量，1-10分),GrLivArea (平方英尺),GarageCars,TotalBath,TotalKitchen,HouseAge (年),RemodAge (年),YearBuilt (建造年份),FullBath,TotRmsAbvGrd,OverallGrade,LivAreaRatio (平方英尺),SpaceEfficiency,Neighborhood_Grouped,KitchenQual,SaleCondition,output,timestamp
+1495,1509,3,1500,1,2,1,14,10,1990,2,0,0,1500,0,Mitchel,Ex,Normal,,2025-12-23 13:09:41.851331
+1500,1500,5,1500,0,2,0,20,20,1990,2,0,0,1500,0,CollgCr,Ex,Normal,,2025-12-23 13:15:36.013329
+1500,1500,5,1500,0,2,0,20,20,1990,2,0,0,1500,0,CollgCr,Ex,Normal,"**预测房价约为: $103,044.30**
+
+(基于您提供的 18 个房屋特征)",2025-12-23 13:15:49.087072
+1500,1500,5,1500,0,2,0,20,20,1990,2,0,0,1500,0,CollgCr,Ex,Normal,,2025-12-23 13:40:55.829353
