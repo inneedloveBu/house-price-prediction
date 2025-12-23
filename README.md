@@ -3,6 +3,9 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20Demo-blue)](https://huggingface.co/spaces/indeedlove/house-price-predictor)
 [![GitHub](https://img.shields.io/badge/📂-View%20on%20GitHub-black)](https://github.com/inneedloveBu/house-price-prediction)
 
+![Uploading ScreenShot_2025-12-23_153554_201.png…]()
+
+
 ## Project Overview
 This project tackles the **Kaggle House Prices** competition, a classic **regression problem**. It predicts the final sale price of residential homes in Ames, Iowa, based on over 80 explanatory features. The project showcases a complete data science pipeline, from **exploratory data analysis (EDA)** and **advanced feature engineering** to **model training with XGBoost** and **deployment as an interactive web application**.
 
@@ -20,6 +23,8 @@ After feature engineering and hyperparameter optimization, the final **XGBoost m
 > *Interpretation: The model can explain approximately 91% of the variance in house prices, with an average prediction error of around $26k.*
 
 ## Project Structure
+<img width="640" height="200" alt="ScreenShot_2025-12-23_154646_921" src="https://github.com/user-attachments/assets/d7b7bae0-ed1f-44d6-a5df-cbcd88465980" />
+
 
 
 
