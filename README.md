@@ -2,6 +2,7 @@
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20Demo-blue)](https://huggingface.co/spaces/indeedlove/house-price-predictor)
 [![GitHub](https://img.shields.io/badge/📂-View%20on%20GitHub-black)](https://github.com/inneedloveBu/house-price-prediction)
+[![bilibili](https://img.shields.io/badge/🎥-View%20on%20Bilibili-yellow)](https://www.bilibili.com/video/BV1c6kJYiEua) 
 
 <img width="1166" height="734" alt="ScreenShot_2025-12-23_153554_201" src="https://github.com/user-attachments/assets/4f7c15a1-bba6-4bf2-86f1-e90b4c6cfd16" />
 
