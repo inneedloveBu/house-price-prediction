@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction - A Regression Analysis Project
 
 
-[![bilibili](https://img.shields.io/badge/🎥-View%20on%20Bilibili-yellow)](https://www.bilibili.com/video/BV1c6kJYiEua/?share_source=copy_web&vd_source=56cdc7ef44ed1ee2c9b9515febf8e9ce&t=60)
+[![bilibili](https://img.shields.io/badge/🎥-View%20on%20Bilibili-red)](https://www.bilibili.com/video/BV1c6kJYiEua/?share_source=copy_web&vd_source=56cdc7ef44ed1ee2c9b9515febf8e9ce&t=60)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face%20Spaces-blue)](https://huggingface.co/spaces/indeedlove/house-price-predictor)
 [![GitHub](https://img.shields.io/badge/📂-GitHub-black)](https://github.com/inneedloveBu/house-price-prediction)
